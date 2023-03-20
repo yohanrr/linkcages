@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>HTML TAGS FORMATTING</title>
+</head>
+
+<body>
+  <h1 style="font-size:3vw" align="center">HUMUS</h1>
+  <hr>
+  <h2 id = startA>Linl to Fragment </h2>
+  <hr>
+  <pre>
+        Quick hummus recipe
+        This recipe makes quick, tasty hummus, with no messing.
+        It has been adapted from a number of different recipes that I have read over the years.
+        Hummus is a delicious thick paste used heavily in Greek and Middle Eastern dishes.
+        It is very tasty with salad, grilled meats and pitta breads.
+    </pre>
+
+  <blockquote cite="https://www.webmd.com/diet/hummus-recipe-and-benefits">
+    <p><em>Hummus</em> that creamy dip that hails from the Middle East, has a reputation as a clean, healthy food.
+      It deserves it.
+      All the main ingredients are super foods in their own right.
+      It's got chickpeas, sesame paste (tahini), garlic, and <strong>olive oil in most traditional versions. </strong>
+      <p>Matthew Carter says, <q>Hummus never change.</q></p>
+
+    </blockquote>
+  <hr />
+  <a href="https://www.youtube.com/watch?v=EtU2f0qrGrY&t=29s"><img border="5" alt="Hummus" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtx4xsTI349U57ZQyDY5WaXUIm1T5Sbhi_YA&usqp=CAU" width="100" height="100"</a>
+  <a href="https://www.webmd.com/diet/hummus-recipe-and-benefits" target="_blank"><br />Hummus Recipe</a>
+  <br /><a href="mailto:yohanurellan@gmail.com">Send email to the Author</a>
+  <br/><a href="C:\Users\202212606\Code.docx">Link to MSWord</a>
+  <br/><a href="C:\Users\202212606\Code.pdf">Link to PDF</a>
+  <br/><a href="C:\Users\202212606\Images\Cat.jpg">Link to image cat</a>
+  <br/><a href="C:\Users\202212606\Desktop\humuscode.txt">Link to txt</a>
+  <br/><a href="C:\Users\202212606\excelsige.xlsx">Link to excel</a>
+  <br/><a href="C:\Users\202212606\Images\dog.jpg">Download this dog</a>
+   <br/><a href="C:\Users\202212606\Images\4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif">Link to catto gif</a></br>
+ 
+  
+   <a href="#startA">Top</a>
+  
+  
+ 
+
+  <ul><mark>Ingredients:</mark>
+    <li>1 can <sub>(400g)</sub> of chick peas (garbanzo beans) </li>
+    <li>1 can <sup>(400g)</sup> of chick peas (garbanzo beans) </li>
+    <li>Half a red pepper </li>
+    <li>A pinch of cayenne pepper </li>
+    <li>1 clove of garlic A dash of olive oil </li>
+  </ul>
+  <p>
+  <ol><mark>Instructions:</mark>
+    <li>Remove the skin from the garlic, and chop coarsel</li>
+    <li>Add all the ingredients into a food processor</li>
+    <li>Process all the ingredients into a paste If you want a coarse "chunky" hummus, process it for a short time</li>
+    <li>Remove the skin from the garlic, and chop coarsel</li>
+    <li>For a different flavor, you could try blending in a small measure of lemon and coriander, chili pepper, lime and chipotle, harissa and mint, or spinach and feta cheese. </li>
+    <li>Experiment and see what works for you. Storage Refrigerate the finished hummus in a sealed container. </li>
+    <li>You should be able to use it for about a week after you've made it.</li>
+    <li>You should be able to use it for about a week after you've made it. If it starts to become fizzy, you should definitely discard it.</li>
+    <li>If you want a smooth hummus, process it for a longer time</li>
+  </ol>
+  <dl>
+    <dt>Humus</dt>
+    <dd>
+      is the dark organic matter in soil that is formed by the decomposition of plant and animal matter.
+      It is a kind of soil organic matter. It is rich in nutrients and retains moisture in the soil.
+      <br />Humus is the Latin word for "earth" <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1YFvO1hb8CPV5Bj6b5QrUKIuhFyUKEiJNhQ&usqp=CAU" alt="earth" width="100" height="100" />or "ground".
+      <br />Hummus is suitable for freezing; you should thaw it and use it within a couple of months
+   
+  <picture>
+		<source media=" (min-width:760px)" srcset="C:\Users\202212606\Images\icecream.png">
+			<source media=" (min-width:360px)" srcset="C:\Users\202212606\Images\icecream.png">
+			<img src="C:\Users\202212606\Images\icecream.png" alt="icecream" />
+   </picture>
+    </dd>
+  </dl>
+  </p>
+  
+   <object type="image/svg+xml" data="file:///C:/Users/202212606/Downloads/undraw_pilates_k9uh.svg"><img src="C:\Users\202212606\Downloads\undraw_pilates_k9uh.svg"/></object>
+   <object type="image/svg+xml" data="C:\Users\202212606\Downloads/undraw_dog_c7i6.svg">
+   <img src="C:\Users\202212606\Downloads\undraw_dog_c7i6.svg"/></object>
+   
+  <p><time datetime="2023-03-03">03-March-2023</time></p>
+
+</html>
